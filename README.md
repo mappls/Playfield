@@ -1,4 +1,5 @@
-# sklearn_playfield
+# Playfield
+
 Machine learning experiments with Python's scikit-learn, tensorflow and others..
 
 Short description of files:
