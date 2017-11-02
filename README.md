@@ -3,6 +3,7 @@
 Machine learning experiments with Python's scikit-learn, tensorflow and others..
 
 Short description of files:
+- tf_iris_model.ipynb - A neural network built from scratch using the TensorFlow's Core API
 - tensorflow_introduction.ipynb - A Python Jupyter script trying out basic tensorflow mechanisms
 - tensorflow_lin_regression.ipynb - A python Jupyter script working on linear regression using TensorFlow
 - lin_reg.ipynb - A Python Jupyter script working on linear regression using scikit-learn
