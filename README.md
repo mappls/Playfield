@@ -9,6 +9,7 @@ Short description of files:
 - lin_reg.ipynb - A Python Jupyter script working on linear regression using scikit-learn
 - supervised.ipynb - A Python Jupyter script working on supervised learning using the scikit-learn library and the Iris dataset
 - svm_kmeans_pca.py - A Python script using the scikit-learn library on SVM, K-means, and PCA algorithms
+- keras_dense_lstm.py - A keras model using the Dense and LSTM layers for matching an input letter to output numeric class
 
 References:
 - datacamp.com open tutorials
